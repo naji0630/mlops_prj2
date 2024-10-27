@@ -1,0 +1,15 @@
+artifact_uri: file:///home/home/Desktop/mlops/prj2/mlruns/512596422720112592/995b3355c56946c2bcabffc24a89d1a3/artifacts
+end_time: 1730019879901
+entry_point_name: ''
+experiment_id: '512596422720112592'
+lifecycle_stage: active
+run_id: 995b3355c56946c2bcabffc24a89d1a3
+run_name: tasteful-snake-738
+run_uuid: 995b3355c56946c2bcabffc24a89d1a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730019878922
+status: 3
+tags: []
+user_id: home
